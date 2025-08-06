@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "pinia": "^3.0.3",
+    "verge3d": "^4.10.0",
     "vue": "^3.5.18",
     "vue-router": "^4.5.1"
   },
